@@ -19,4 +19,4 @@ krutova13 Infra repository
 
 И затем можно подключиться следующим способом: 
 
-	ssh -t bastion "ssh someinternalhost"
+	ssh -t -A bastion "ssh someinternalhost"
