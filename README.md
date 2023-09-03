@@ -1,8 +1,8 @@
 # krutova13_infra
 krutova13 Infra repository
 
-bastion_IP = 51.250.92.106
-someinternalhost_IP = 10.128.0.10
+	bastion_IP = 51.250.92.106
+	someinternalhost_IP = 10.128.0.10
 
 Чтобы подключиться к someinternalhost в одну команду с локального устройства, можно воспользоваться командой: 
 
