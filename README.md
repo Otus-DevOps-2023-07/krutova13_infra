@@ -23,3 +23,6 @@ krutova13 Infra repository
 И затем можно подключиться следующим способом: 
 
 	ssh -t -A bastion "ssh someinternalhost"
+
+	testapp_IP = 35.198.167.169
+	testapp_port = 9292
